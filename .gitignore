@@ -1,0 +1,7 @@
+datasets/*
+bin/*
+lib/*
+runs/*
+share/*
+*.jpg
+pyvenv.cfg
